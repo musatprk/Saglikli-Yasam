@@ -1,0 +1,26 @@
+c:\users\gnu\documents\visual studio 2015\Projects\syasam\syasam\bin\Debug\syasam.exe.config
+c:\users\gnu\documents\visual studio 2015\Projects\syasam\syasam\bin\Debug\syasam.exe
+c:\users\gnu\documents\visual studio 2015\Projects\syasam\syasam\bin\Debug\syasam.pdb
+c:\users\gnu\documents\visual studio 2015\Projects\syasam\syasam\bin\Debug\MySql.Data.dll
+c:\users\gnu\documents\visual studio 2015\Projects\syasam\syasam\bin\Debug\Google.Protobuf.dll
+c:\users\gnu\documents\visual studio 2015\Projects\syasam\syasam\bin\Debug\Zstandard.Net.dll
+c:\users\gnu\documents\visual studio 2015\Projects\syasam\syasam\bin\Debug\K4os.Compression.LZ4.Streams.dll
+c:\users\gnu\documents\visual studio 2015\Projects\syasam\syasam\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\gnu\documents\visual studio 2015\Projects\syasam\syasam\bin\Debug\Ubiety.Dns.Core.dll
+c:\users\gnu\documents\visual studio 2015\Projects\syasam\syasam\bin\Debug\Renci.SshNet.dll
+c:\users\gnu\documents\visual studio 2015\Projects\syasam\syasam\bin\Debug\System.Buffers.dll
+c:\users\gnu\documents\visual studio 2015\Projects\syasam\syasam\bin\Debug\K4os.Compression.LZ4.dll
+c:\users\gnu\documents\visual studio 2015\Projects\syasam\syasam\bin\Debug\K4os.Hash.xxHash.dll
+c:\users\gnu\documents\visual studio 2015\Projects\syasam\syasam\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+c:\users\gnu\documents\visual studio 2015\Projects\syasam\syasam\bin\Debug\MySql.Data.xml
+c:\users\gnu\documents\visual studio 2015\Projects\syasam\syasam\obj\Debug\syasam.csprojResolveAssemblyReference.cache
+c:\users\gnu\documents\visual studio 2015\Projects\syasam\syasam\obj\Debug\syasam.csproj.syasam.exe.config
+c:\users\gnu\documents\visual studio 2015\Projects\syasam\syasam\obj\Debug\syasam.Form1.resources
+c:\users\gnu\documents\visual studio 2015\Projects\syasam\syasam\obj\Debug\syasam.Properties.Resources.resources
+c:\users\gnu\documents\visual studio 2015\Projects\syasam\syasam\obj\Debug\syasam.csproj.GenerateResource.Cache
+c:\users\gnu\documents\visual studio 2015\Projects\syasam\syasam\obj\Debug\syasam.exe
+c:\users\gnu\documents\visual studio 2015\Projects\syasam\syasam\obj\Debug\syasam.pdb
+c:\users\gnu\documents\visual studio 2015\Projects\syasam\syasam\obj\Debug\syasam.Form2.resources
+C:\Users\gnu\Desktop\syasam\syasam\bin\Debug\syasam.exe.config
+C:\Users\gnu\Desktop\syasam\syasam\obj\Debug\syasam.exe
+C:\Users\gnu\Desktop\syasam\syasam\obj\Debug\syasam.pdb
